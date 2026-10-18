@@ -14,5 +14,10 @@ public class StudentInformationSystem {
         System.out.println("ID; uk6565");
         System.out.println("Name; aizatbasirjab");
         
+        int math = 40;
+        int science = 40;
+                int total = math + science;
+                System.out.println(total);
+        
     }
 }
