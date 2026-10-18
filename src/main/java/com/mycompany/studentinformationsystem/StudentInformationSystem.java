@@ -11,7 +11,7 @@ package com.mycompany.studentinformationsystem;
 public class StudentInformationSystem {
 
     public static void main(String[] args) {
-        System.out.println("ID; uk6565");
+        System.out.println("ID; uk6565kustem");
         System.out.println("Name; aizatbasirjab");
         
         int math = 40;
